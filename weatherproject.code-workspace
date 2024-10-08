@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "weatherproject",
+			"path": "../weatherproject"
+		},
+		{
+			"name": "Calculator",
+			"path": "../Calculator"
+		},
+		{
+			"name": "Newsletter-SignUp",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
